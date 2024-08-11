@@ -1,0 +1,21 @@
+.contact{
+    padding-top: 30px;
+}
+.contact .social-icon .fa-facebook{
+    color: rgb(44, 71, 181);
+}
+.contact .social-icon .fa-youtube{
+    color: rgb(205, 41, 41);
+}
+.contact .social-icon .fa-tiktok{
+    color: rgb(24, 24, 26);
+}
+.contact .social-icon .fa-instagram{
+    color: #fa1a3c
+}
+.contact .row ul li{
+    padding-bottom: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    text-transform: uppercase;
+}

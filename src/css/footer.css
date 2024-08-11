@@ -1,0 +1,50 @@
+.footer{
+    /* background-color: var(--bg-header-footer-color) */
+    background-color: rgb(105, 104, 104) !important;
+    width: 100%;
+}
+.row{
+    padding-top: 10px;
+    padding: 10px 20px;
+}
+.col-sm-12 a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+
+}
+.footer-border{
+    height: 2px;
+    margin: 0 30PX;
+    background-color: aliceblue;
+}
+.row ul li{
+    padding-bottom: 10px;
+    list-style: none;
+}
+.row ul li a{
+    text-decoration: none;
+    color: rgb(15, 15, 15);
+}
+.row h5{
+    font-weight: 700
+}
+.social-icon i {
+   color: aliceblue;
+}
+
+.social-icon a{
+    margin-right: 10px;
+}
+.social-icon .fa-facebook:hover{
+    color: rgb(44, 71, 181);
+}
+.social-icon .fa-youtube:hover{
+    color: rgb(205, 41, 41);
+}
+.social-icon .fa-tiktok:hover{
+    color: rgb(24, 24, 26);
+}
+.social-icon .fa-instagram:hover{
+    color: #fa1a3c
+}

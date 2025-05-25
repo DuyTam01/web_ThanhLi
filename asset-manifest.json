@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web_ThanhLi/static/css/main.029eacb4.css",
+    "main.js": "/web_ThanhLi/static/js/main.2e9056d9.js",
+    "static/media/Dt.gif": "/web_ThanhLi/static/media/Dt.3f32d46ef76ef2ab85f4.gif",
+    "static/media/home.jpg": "/web_ThanhLi/static/media/home.4f0b6e211860887b1b7e.jpg",
+    "static/media/home1.jpg": "/web_ThanhLi/static/media/home1.33ecf30d5dee276f5f36.jpg",
+    "index.html": "/web_ThanhLi/index.html",
+    "main.029eacb4.css.map": "/web_ThanhLi/static/css/main.029eacb4.css.map",
+    "main.2e9056d9.js.map": "/web_ThanhLi/static/js/main.2e9056d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029eacb4.css",
+    "static/js/main.2e9056d9.js"
+  ]
+}

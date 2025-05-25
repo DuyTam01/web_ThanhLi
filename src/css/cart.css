@@ -1,0 +1,36 @@
+.table tbody tr td img{
+    height: 100px;
+}
+.container .table{
+    margin-top: 1%;
+}
+.container .table input{
+    margin: 2px;
+}
+.container .contain .group-btn{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    
+}
+
+.container .contain .total-price{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 25%;
+}
+.container .contain .total-price h5{
+    font-weight: 800;
+}
+.container .contain .total-price h5 span{
+    color: brown;
+}
+.contain input{
+    margin-left: 50px;
+}
+.table .active{
+    background-color: rgb(114, 158, 158) !important;
+}
+.form-check-input {
+    position: relative;
+}

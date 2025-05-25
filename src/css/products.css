@@ -1,0 +1,91 @@
+.card {
+    margin: 0px 20px 10px 20px;
+    position: relative;
+}
+
+
+.card-body {
+    height: 450px;
+    text-align: center;
+    padding-top: 0px !important;
+    position: relative;
+}
+
+.card-body .btn-group {
+    position: absolute;
+    bottom: 20px;
+   width: 100%;  
+    left: 0%; 
+    /* display: flex; */
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.btn-group button{
+    /* margin: 10px 20px; */
+    position: relative;
+    width: 100%
+    
+}
+
+.card-body:hover {
+    scale: 110%;
+    transition: 0.5s;
+
+}
+
+.card-body .btn-group button:hover {
+    transform: translateY(-30%);
+    scale: 130%;
+    background-color: red;
+    position:relative
+}
+
+.card-body .card-title:hover {
+    color: rgb(107, 20, 195) !important;
+    font-weight: 700 !important
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card-body .text-muted {
+    color: red !important;
+}
+
+.card-title {
+    color: rgb(37, 34, 34) !important;
+    font-weight: 300
+}
+
+.pagination {
+    justify-content: flex-end;
+}
+
+.pagination .active .undefined {
+    color: rgb(203, 8, 11) !important;
+}
+
+
+.pagination li a {
+    padding: 0 12px;
+    position: relative;
+    display: block;
+    justify-content: flex-end;
+    padding: 10px 20px;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+    background-color: rgb(118, 118, 134);
+    border: 1px solid rgb(42, 94, 178);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#back-to-top {
+    font-size: 30px;
+    position: absolute;
+    right: 109px;
+    position: fixed;
+    bottom: 0px;
+}
